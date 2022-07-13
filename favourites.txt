@@ -1,6 +1,7 @@
 food:
 schabowy
 buraczki
+jagodzianki
 
 movies:
 Blade Runner
